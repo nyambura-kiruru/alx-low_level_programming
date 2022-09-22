@@ -1,4 +1,4 @@
-#include "main.h
+#include "main.h"
 
 /**
 *strncat - concentrate two strings but add inputted number of bytes
