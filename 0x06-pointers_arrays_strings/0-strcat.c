@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  *_strcat - appending string to dest string
  *@dest: passed by ref
