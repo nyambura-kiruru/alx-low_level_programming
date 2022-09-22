@@ -1,0 +1,44 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v165)
+"   /
+"   Sorted by time reversed
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+root/
+alx-low_level_programming/
+./
+../
+tmp/
+pointers_arrays/
+reading/
+pointers/
+arrays/
+and/
+bin@	 --> usr/bin
+Betty/
+alx-system_engineering-devops/
+etc/
+school/
+home/
+betty/
+C/
+trial/
+sys/
+proc/
+dev/
+alx-zero_day/
+alx-pre_course/
+run/
+.dockerenv*
+sbin@	 --> usr/sbin
+lib64@	 --> usr/lib64
+lib@	 --> usr/lib
+opt/
+libx32@	 --> usr/libx32
+lib32@	 --> usr/lib32
+usr/
+var/
+srv/
+mnt/
+media/
+boot/
